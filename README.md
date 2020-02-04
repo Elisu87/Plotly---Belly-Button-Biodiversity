@@ -1,6 +1,6 @@
 # Plotly- Belly-Button-Biodiversity
 
-### Deploy app to a free static page hosting service by clicking http://0.0.0.0:8000/
+### Deploy app to a free static page hosting service by clicking http://127.0.0.1:5500/index.html
 
 
 ## Build an interactive dashboard to explore the Belly Button Biodiversity dataset using D3 and plotly 
