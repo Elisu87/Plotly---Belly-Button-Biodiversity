@@ -48,6 +48,6 @@ http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/
 
 - Displayed each key-value pair from the metadata JSON object somewhere on the page.
 
-![](images/Info_Display.png)
+![](images/InfoDisplay.png)
 
 
