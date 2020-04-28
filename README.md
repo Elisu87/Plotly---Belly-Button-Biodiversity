@@ -2,6 +2,8 @@
 
 Deploy app to a free static page hosting service by clicking
 
+https://elisu87.github.io/Plotly---Belly-Button-Biodiversity/
+
 
 #### Descriptions
 Built  interactive dashboard to explore the Belly Button Biodiversity dataset, which catalogs the microbes that colonize human navels
@@ -22,13 +24,15 @@ http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/
 
 #### Visualizations
 
+![](images/WebPageOverview.png)
+
 ##### Bar Chart 
 
 - Used sample_values as the values for the bar chart
 - Used otu_ids as the labels for the bar chart
 - Used otu_labels as the hovertext for the chart
 
-
+![](images/Top10.png)
 
 
 #### Bubble Chart 
@@ -37,11 +41,13 @@ http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/
 - Used sample_values for the y values.
 - Used sample_values for the marker size.
 
-
+![](images/BubbleChart.png)
 
 
 #### Summary Data Dashboard 
 
 - Displayed each key-value pair from the metadata JSON object somewhere on the page.
+
+![](images/Info_Display.png)
 
 
